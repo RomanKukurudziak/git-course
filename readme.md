@@ -1,2 +1,1 @@
-asdasdasd
-dasdad
+git learning
